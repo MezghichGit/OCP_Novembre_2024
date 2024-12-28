@@ -25,8 +25,9 @@ public class ExoStream {
 		//long nb = etudiants.stream().filter(e->e.getAge()>28).peek(System.out::println).count();
 		//System.out.println(nb);
 		//Q3
-		long nb = etudiants.stream().filter(e->e.getMoyenne()>15).peek(System.out::println).count();
-		System.out.println(nb);
+		//long nb = etudiants.stream().filter(e->e.getMoyenne()>15).peek(System.out::println).count();
+		//System.out.println(nb);
+		
 	}
 
 }
